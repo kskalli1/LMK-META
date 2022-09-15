@@ -1,0 +1,56 @@
+.about {
+    text-align: justify;
+    color: #242423;
+    width: 40%;
+}
+
+article {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.about-block {
+    font-size: 14px;
+    align-items: center;
+}
+
+.page-title {
+    font-size: 40px;
+}
+
+body {
+    color: #242423;
+}
+
+.pull-right {
+    text-align: justify;
+    right: 150px;
+    top: 100px;
+    width: 40%;
+    position: fixed;
+}
+
+.img-rounded {
+    border-radius: 5px; 
+    width: 25%;
+}
+
+.text {
+    font-size: 15px;
+}
+
+.About video {
+    border-radius: 6px;
+    width: 95%;
+   
+   
+}
+.pull-left {
+    text-align: justify;
+    left: 670px;
+    top: 100px;
+    width: 650px;
+    position: absolute;
+    z-index:-1;
+}
